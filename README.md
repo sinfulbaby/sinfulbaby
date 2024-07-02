@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Abhirup Raha</h1> -->
 <!-- <h3>I'm a college student </h3> -->
 
-- 🎓 I am a Final year student, pursuing Bachelors in **Computer Science** at **Bhairab Ganguly College**. <br>
+- 👩🏻‍💻 Currently Working As Associate Software Engineer in **Accenture**.
+- 🎓 I am a graduate in Bachelors in **Computer Science** at **Bhairab Ganguly College**. <br>
 - 👀 I’m interested in App Development,Web Develpment, Cybersecurity and Programming.
 - 💬 I would love to talk about internship opportunities starting January 2022.
 - 💞️ I’m looking to collaborate on any open source platform.
