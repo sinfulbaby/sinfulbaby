@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-	<a href="https://sinfulbaby.github.io/">Hi, Priyodarshinee Moitra!</a>
+	<a href="https://sinfulbaby.github.io/">Hi, I'm Priyodarshinee Moitra!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> <a href="https://github.com/sinfulbaby/sinfulbaby"> </a>
 <br/>
