@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ---
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Abhirup Raha</h1> -->
 <!-- <h3>I'm a college student </h3> -->
-
-- 👩🏻‍💻 Currently Working As Associate Software Engineer in **Accenture**.
+- 🔐 Masters Cybersec student at **Ajou University**.
+- 👩🏻‍💻  Ex- ASE **Accenture**.
 - 🎓 I am a graduate in Bachelors in **Computer Science** at **Bhairab Ganguly College**. <br>
 - 👀 I’m interested in App Development,Web Develpment, Cybersecurity and Programming.
 - 💬 I would love to talk about internship opportunities starting January 2022.
